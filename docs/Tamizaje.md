@@ -41,7 +41,7 @@
   - [ ] Historia/tarea en Jira: **En progreso** → **Terminado** al finalizar
 
 
-  ### (Violentometro)-Tamizaje
+ ### (Violentometro)-Tamizaje
 - **Responsable:** Sara Malaver (saramalaver01-cpu) 
 - **Repositorio:** https://
 - **Base URL (EC2):** http://<ip-o-dominio>:<puerto>  
