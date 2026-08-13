@@ -8,7 +8,7 @@
 | -------------- | --------------------------------------- | -------------------------------------- | -------------------------- | ------------------------------------- | ------------------------- | ----------- |
 | Violentometro |  tamizaje de la violencia | https:// | http://<ip-o-dominio>:8083 | http://<ip-o-dominio>:8083/swagger-ui | Sara Malaver (saramalaver01-cpu) | En proceso   |
 | Tipo de relaciones    | tamizaje de las relaciones              | https://  | http://<ip-o-dominio>:8082 | http://<ip-o-dominio>:8082/swagger-ui | Jaime Jurado (esteban-42) | En proceso |
-| Bienestar emocional  |  tamizaje de las emociones | https://github.com/yuliethtrujillo01/oauth2-springboot.git | http://<ip-o-dominio>:8083 | http://<ip-o-dominio>:8083/swagger-ui | Yulieth Trujillo (yuliethtrujillo01) | En proceso  |
+| Bienestar emocional  |  tamizaje de las emociones | https:// | http://<ip-o-dominio>:8083 | http://<ip-o-dominio>:8083/swagger-ui | Yulieth Trujillo (yuliethtrujillo01) | En proceso  |
 
 
 
