@@ -1,4 +1,4 @@
-# inventario de tamizaje (equipo)
+# Inventario de Aplicacion de tamizaje (equipo)
 
 > Mantener en actualizacion. Toda fila sin responsable o sin URL válida se considera **incompleta**.
 
