@@ -8,5 +8,5 @@
 - Yulieth Trujillo Rivera
   
 
-## Repositorio de la aplicacion del tamizaje
+## Repositorio de la aplicacion de tamizaje
 - [Aplicacion]()
