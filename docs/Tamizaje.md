@@ -8,9 +8,9 @@
 
 | Servicio (ID)       | Descripción breve                  | Repo URL | Responsable                              | Estado      |
 |---------------------|------------------------------------|----------|-------------------------------------------|-------------|
-| Violentómetro       | Tamizaje de la violencia           | [Repo](https://) | Sara Malaver (`saramalaver01-cpu`)       | En proceso  |
-| Tipo de relaciones  | Tamizaje de las relaciones         | [Repo](https://) | Jaime Jurado (`esteban-42`)              | En proceso  |
-| Bienestar emocional | Tamizaje de las emociones          | [Repo](https://) | Yulieth Trujillo (`yuliethtrujillo01`)   | En proceso  |
+| Violentómetro       | Tamizaje de la violencia           | [Aplicacion](https://) | Sara Malaver (`saramalaver01-cpu`)       | En proceso  |
+| Tipo de relaciones  | Tamizaje de las relaciones         | [Aplicacio](https://) | Jaime Jurado (`esteban-42`)              | En proceso  |
+| Bienestar emocional | Tamizaje de las emociones          | [Aplicacio](https://) | Yulieth Trujillo (`yuliethtrujillo01`)   | En proceso  |
 
 
 
