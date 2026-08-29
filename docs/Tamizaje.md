@@ -4,27 +4,20 @@
 
 ## Tabla resumen
 
-| Servicio (ID)  | Descripción breve                       | Repo URL                               | Base URL (EC2)             | Swagger UI                            | Responsable               | Estado      |
+| Servicio (ID)  | Descripción breve                       | Repo URL                               |       Responsable               | Estado      |
 | -------------- | --------------------------------------- | -------------------------------------- | -------------------------- | ------------------------------------- | ------------------------- | ----------- |
-| Violentometro |  tamizaje de la violencia | https:// | http://<ip-o-dominio>:8083 | http://<ip-o-dominio>:8083/swagger-ui | Sara Malaver (saramalaver01-cpu) | En proceso   |
-| Tipo de relaciones    | tamizaje de las relaciones              | https://  | http://<ip-o-dominio>:8082 | http://<ip-o-dominio>:8082/swagger-ui | Jaime Jurado (esteban-42) | En proceso |
-| Bienestar emocional  |  tamizaje de las emociones | https:// | http://<ip-o-dominio>:8083 | http://<ip-o-dominio>:8083/swagger-ui | Yulieth Trujillo (yuliethtrujillo01) | En proceso  |
+| Violentometro |  tamizaje de la violencia | https://  | Sara Malaver (saramalaver01-cpu) | En proceso   |
+| Tipo de relaciones    | tamizaje de las relaciones              | https://  | Jaime Jurado (esteban-42) | En proceso |
+| Bienestar emocional  |  tamizaje de las emociones | https:// | Yulieth Trujillo (yuliethtrujillo01) | En proceso  |
 
 
 
-> **Ejemplo de llenado real:**  
-> - “Base URL (EC2)”: usar IP pública o dominio del servidor.  
-> - “Estado”: Pendiente / En progreso / Listo.
-
----
 
 ## Detalle por servicio (plantilla)
 
   ### (Tipo de relaciones)-Tamizaje
 - **Responsable:** Jaime Jurado (Esteban-42) 
-- **Repositorio:** https://
-- **Base URL (EC2):** http://<ip-o-dominio>:<puerto>  
-- **Swagger UI:** http://<ip-o-dominio>:<puerto>/swagger-ui  
+- **Repositorio:** https:// 
 - **Entidades principales:**  
   - `<EntidadPrincipal>` (campos clave: …)  
 - **Endpoints mínimos:**  
@@ -35,38 +28,31 @@
   - `DELETE /api/<recurso>/{id}`  
 - **Checklist de verificación (semanal):**  
   - [ ] Compila y arranca local  
-  - [ ] `/actuator/health` **UP** en local  
-  - [ ] Swagger accesible en EC2  
+  - [ ] `/actuator/health` **UP** en local    
   - [ ] Push diario con commits significativos  
   - [ ] Historia/tarea en Jira: **En progreso** → **Terminado** al finalizar
 
 
  ### (Violentometro)-Tamizaje
 - **Responsable:** Sara Malaver (saramalaver01-cpu) 
-- **Repositorio:** https://
-- **Base URL (EC2):** http://<ip-o-dominio>:<puerto>  
-- **Swagger UI:** http://<ip-o-dominio>:<puerto>/swagger-ui  
+- **Repositorio:** https:// 
 - **Entidades principales:**  
   - `<EntidadPrincipal>` (campos clave: …)  
 - **Checklist de verificación (semanal):**  
   - [ ] Compila y arranca local  
-  - [ ] `/actuator/health` **UP** en local  
-  - [ ] Swagger accesible en EC2  
+  - [ ] `/actuator/health` **UP** en local    
   - [ ] Push diario con commits significativos  
   - [ ] Historia/tarea en Jira: **En progreso** → **Terminado** al finalizar
 
 
 ### (Bienestar emcoional)-Tamizaje
 - **Responsable:** Yulieth Trujillo (yuliethtrujillo01) 
-- **Repositorio:** https://
-- **Base URL (EC2):** http://<ip-o-dominio>:<puerto>  
-- **Swagger UI:** http://<ip-o-dominio>:<puerto>/swagger-ui  
+- **Repositorio:** https:// 
 - **Entidades principales:**  
   - `<EntidadPrincipal>` (campos clave: …)  
 - **Checklist de verificación (semanal):**  
   - [ ] Compila y arranca local  
   - [ ] `/actuator/health` **UP** en local  
-  - [ ] Swagger accesible en EC2  
   - [ ] Push diario con commits significativos  
   - [ ] Historia/tarea en Jira: **En progreso** → **Terminado** al finalizar
 
